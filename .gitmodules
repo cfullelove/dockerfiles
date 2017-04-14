@@ -4,3 +4,6 @@
 [submodule "simple-dev-env"]
 	path = simple-dev-env
 	url = git@github.com:cfullelove/simple-dev-env.git
+[submodule "docker-supervisor-php"]
+	path = docker-supervisor-php
+	url = git@github.com:cfullelove/docker-supervisor-php.git
