@@ -1,0 +1,6 @@
+[submodule "redbook-legacy-platform"]
+	path = redbook-legacy-platform
+	url = git@github.com:cfullelove/redbook-legacy-platform.git
+[submodule "simple-dev-env"]
+	path = simple-dev-env
+	url = git@github.com:cfullelove/simple-dev-env.git
